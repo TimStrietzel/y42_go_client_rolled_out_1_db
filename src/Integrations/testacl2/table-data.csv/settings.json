@@ -1,0 +1,17 @@
+{
+  "$schema": "https://s.dev.y42.dev/integrations/file-upload/0.0.0/source.json#csv",
+  "content-type": "text/csv",
+  "uploadTarget": "https://storage.googleapis.com/upload/storage/v1/b/y42_goclientrolledout1_cfe90019ba854358908cc02031f51dee/o?uploadType=resumable&upload_id=ADPycdudXVYQsqv72gYpsGvwvLHqwHC3Y-XTTqzv33djND3vh9Kyu2i1z9BxdcNMolOoKr9gdCCOLiz9CBMqFTxK0mSQcbb2iH0O",
+  "originalName": "table-data.csv",
+  "size": "520",
+  "uri": "gs://y42_goclientrolledout1_cfe90019ba854358908cc02031f51dee/userUploads/v2/15/file-upload/4efc2711-0819-4e95-aafc-65656565497d",
+  "csv_options": {
+    "field_delimiter": ",",
+    "allow_quoted_new_lines": true,
+    "null_marker": "",
+    "ignore_unknown_values": false,
+    "encoding": "UTF-8",
+    "quote": "\"",
+    "skip_leading_rows": null
+  }
+}
